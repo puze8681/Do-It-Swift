@@ -37,6 +37,7 @@ class ViewController: UIViewController {
     }
 
     func updateTime(){
+        
 //        lblCurrentTime.text = String(count)
 //        count = count+1
 
